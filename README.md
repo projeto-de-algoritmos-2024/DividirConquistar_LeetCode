@@ -47,7 +47,7 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 |Link|Nível|Alunos|
 |----|:--:|:---:|
 |[775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|Médio|Eduardo e Daniel|
-|[]()|Médio|Eduardo e Daniel|
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|Médio|Eduardo e Daniel|
 
 ## Explicação dos exercícios e respectivas soluções
 
