@@ -1,3 +1,6 @@
+using namespace std;
+#include <vector>
+
 int merge(vector<int>& nums, int left, int mid, int right) {
     int i = left;
     int j = mid + 1;
