@@ -14,9 +14,9 @@ Temas:
 -->
 # Dividir e Conquistar - Leetcode Problems
 
-**Número da Lista**: 2<br>
-**Conteúdo da Disciplina**: Grafos 2<br>
-**Vídeo**: 
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
+**Vídeo**: [Grupo 2 - DividirConquistar_LeetCode](https://youtu.be/JRBipQXu5HM)
 
 ## Alunos
 |Matrícula | Aluno |
@@ -51,3 +51,4 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 ## Explicação dos exercícios e respectivas soluções
 
+[Grupo 2 - DividirConquistar_LeetCode](https://youtu.be/JRBipQXu5HM)
